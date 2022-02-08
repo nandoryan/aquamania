@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+.sales {
+  margin-top: 260px;
+}
+.sales .header {
+  font-weight: 700;
+}
+html body {
+  background: url("../images/wp3763081-aquascape-wallpapers\(1\)\ 1.png");
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+.pricingt {
+  background-color: #39e478;
+  padding: 70px 0 70px 0;
+  margin-top: 70px;
+}
+.sales .btn-primary {
+  background-color: #39e478;
+  color: #fff !important;
+  border: 200px;
+}
+.btn-primary :hover {
+  background-color: #071c35 !important;
+  color: #fff !important;
+}
+
+/* .btn {
+        border-radius: 8px;
+        border: none;
+        font-size: 13px;
+        color: #fff !important;
+        font-weight: 600;
+        padding: .775rem 2.375rem !important;
+    }; */
